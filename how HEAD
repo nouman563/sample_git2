@@ -1,0 +1,32 @@
+[33mcommit 09e9eff5dc9528e2567e824b24f3ec7143471bcc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nouman563 <mohdnouman5632@gmail.com>
+Date:   Mon Sep 1 22:43:26 2025 +0530
+
+    Revert "Added test.txt"
+    
+    This reverts commit 0f1b8eafb14c3c5163a3d59ef66e6f7c25cb1811.
+
+[33mcommit 0f1b8eafb14c3c5163a3d59ef66e6f7c25cb1811[m
+Author: Nouman563 <mohdnouman5632@gmail.com>
+Date:   Mon Sep 1 22:42:44 2025 +0530
+
+    Added test.txt
+
+[33mcommit 2b13e7db348e75dd05543715f2b4e4881adb8177[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: fa0191c 5090455
+Author: Nouman563 <mohdnouman5632@gmail.com>
+Date:   Mon Sep 1 22:39:17 2025 +0530
+
+    Initial commit
+
+[33mcommit fa0191c6f676829878ca6b1abf0b350e45f279ba[m
+Author: Nouman563 <mohdnouman5632@gmail.com>
+Date:   Mon Sep 1 22:28:19 2025 +0530
+
+    First commit in WEEDDETECTION project
+
+[33mcommit 509045569e5422f73ef3f538cad64f3c0a6bb6ff[m
+Author: nouman563 <mohdnouman5632@gmail.com>
+Date:   Tue Jul 29 12:09:55 2025 +0530
+
+    initial commit
